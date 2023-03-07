@@ -16,6 +16,9 @@ Rather than use a lot of Serial.print statements in your code, just connect up a
 ► Documentation #2: https://docs.platformio.org/en/latest/plus/debug-tools/esp-prog.html  
 ► Documentation #3: https://cdn.robotshop.com/media/s/spa/rb-spa-2030/pdf/esp-prog-datasheet.pdf  
 
+► IDC adapter for 1.27mm IDC cable  
+Adafruit: http://adafru.it/2743  
+
 ESP32 MiniKit Debug Shield (for ESP32 Mini) by Brian Lough  
 ► https://store.eplop.co.uk/product/esp32-minikit-debug-shield/  
 
