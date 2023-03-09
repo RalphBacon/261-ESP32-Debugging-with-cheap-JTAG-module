@@ -11,7 +11,7 @@ Forget Serial.print statements, debug your code properly!
 Rather than use a lot of Serial.print statements in your code, just connect up a cheap JTAG module from Espressif (the designers of the ESP32) to be able to step through your code a line at a time.
 
 ### Hardware  
-► ESP-PROG (about $12 + shipping + taxes)  
+► ESP-PROG (about $12 + shipping + taxes) https://s.click.aliexpress.com/e/_DFIm9RJ    
 ► Documentation #1: https://bit.ly/ESP32_Intro  
 ► Documentation #2: https://docs.platformio.org/en/latest/plus/debug-tools/esp-prog.html  
 ► Documentation #3: https://cdn.robotshop.com/media/s/spa/rb-spa-2030/pdf/esp-prog-datasheet.pdf  
