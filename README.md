@@ -4,10 +4,11 @@ Forget Serial.print statements, debug your code properly!
 ![Thumbnail-00018 (Phone)](https://user-images.githubusercontent.com/20911308/223477128-8d5d9eb0-d804-4ba0-b9f6-d333689c8edf.png)
 
 ### Video link: https://youtu.be/lOG8-mQHZTw  
-<br>  
 
+<sub>JLCPCB 1-8 Layer PCB at $2. PCBA from $0 (Free Setup, Free Stencil)</sub>  
 [![JLCPCB Any colour including purple](https://user-images.githubusercontent.com/20911308/223475598-b2e00f51-f634-4802-a6c1-336b02c748d6.jpg "JLCPCB 1-8 Layer PCB at $2. PCBA from $0 (Free Setup, Free Stencil)
 Sign Up Here to Get $54 New User Coupons")](https://jlcpcb.com/FROM=SKL)  
+<sup>Sign Up Here to Get $54 New User Coupons at -  https://jlcpcb.com/?from=SKL</sup>  
 
 Rather than use a lot of Serial.print statements in your code, just connect up a cheap JTAG module from Espressif (the designers of the ESP32) to be able to step through your code a line at a time.
 
