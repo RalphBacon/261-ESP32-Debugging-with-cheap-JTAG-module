@@ -1,8 +1,7 @@
 # # Video 261: ESP32 Debugging with a cheap JTAG module  
 Forget Serial.print statements, debug your code properly!  
 
-![Thumbnail-00018 (Phone)](https://user-images.githubusercontent.com/20911308/223477128-8d5d9eb0-d804-4ba0-b9f6-d333689c8edf.png)
-
+![Thumbnail-00018 (Phone)](https://user-images.githubusercontent.com/20911308/223477128-8d5d9eb0-d804-4ba0-b9f6-d333689c8edf.png)  
 ### Video link: https://youtu.be/lOG8-mQHZTw  
 
 <sub>**JLCPCB 1-8 Layer PCB at $2. PCBA from $0 (Free Setup, Free Stencil)**</sub>  
