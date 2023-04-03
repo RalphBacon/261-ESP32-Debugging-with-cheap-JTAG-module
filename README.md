@@ -5,7 +5,7 @@ Forget Serial.print statements, debug your code properly!
 
 ### Video link: https://youtu.be/lOG8-mQHZTw  
 
-<sub>JLCPCB 1-8 Layer PCB at $2. PCBA from $0 (Free Setup, Free Stencil)</sub>  
+<sub>**JLCPCB 1-8 Layer PCB at $2. PCBA from $0 (Free Setup, Free Stencil)**</sub>  
 [![JLCPCB Any colour including purple](https://user-images.githubusercontent.com/20911308/223475598-b2e00f51-f634-4802-a6c1-336b02c748d6.jpg "JLCPCB 1-8 Layer PCB at $2. PCBA from $0 (Free Setup, Free Stencil)
 Sign Up Here to Get $54 New User Coupons")](https://jlcpcb.com/FROM=SKL)  
 <sup>Sign Up Here to Get $54 New User Coupons at -  https://jlcpcb.com/?from=SKL</sup>  
